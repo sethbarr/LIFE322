@@ -1,5 +1,5 @@
 ---
-marp: false
+marp: true
 theme: uncover
 ---
 
@@ -165,6 +165,7 @@ LIFE322
 
 ![bg](./pptimages/image14.png)
  
+
 
 ---
 <!-- _color: white -->
@@ -403,4 +404,82 @@ Here data from aphids, showing that the reproducting rate of unchallenged indivi
 - Is there variation in these traits and if so, how is it maintained?
 
 ---
+
+
+<!-- _color: white -->
+<!-- bg: orange  --> 
+![bg](orange)
+
+# Behaviour matters
+
+- Wasn't thought very important by some. 
+- Then ... 
+---
+<!-- _footer:
+By Source (WP:NFCC#4), Fair use, https://en.wikipedia.org/w/index.php?curid=66213429 -->
+<!-- _color:  -->
+
+
+![height:600](./pptimages/Death_to_2020.png)
+
+---
+<!-- _footer: The conversation -->
+<!-- _color:  -->
+
+<!-- ![height:500](./pptimages/coronavirus-and-behavior-change-cover.jpg) -->
+<!-- ![bg right height:600](./pptimages/image36.png) -->
+<!-- ![bg right height:500](./pptimages/Mask-1120.jpg) -->
+![bg](./pptimages/distancing.jpg)
+
+
+<!-- Changes to our behaviour have dramatically altered disease. Distancing and mask use
+-->
+
+---
+<!-- _footer: The conversation -->
+<!-- _color:  -->
+
+![bg height:500](./pptimages/wash.jpg)
+
+<!-- ![height:500](./pptimages/coronavirus-and-behavior-change-cover.jpg) -->
+<!-- ![bg right height:600](./pptimages/image36.png) -->
+<!-- ![bg right height:500](./pptimages/Mask-1120.jpg) -->
+![bg](./pptimages/distancing.jpg)
+
+
+<!-- Changes to our behaviour have dramatically altered disease. Distancing and mask use
+-->
+
+---
+<!-- _footer: The conversation -->
+<!-- _color:  -->
+
+![height:500](./pptimages/stayhome.jpg)
+
+<!-- ![height:500](./pptimages/coronavirus-and-behavior-change-cover.jpg) -->
+<!-- ![bg right height:600](./pptimages/image36.png) -->
+<!-- ![bg right height:500](./pptimages/Mask-1120.jpg) -->
+![bg](./pptimages/distancing.jpg)
+
+
+<!-- Changes to our behaviour have dramatically altered disease. Distancing and mask use
+-->
+
+---
+<!-- _footer:  -->
+<!-- _color:  -->
+
+<!-- ![bg right height:600](./pptimages/image36.png) -->
+![bg height:600](./pptimages/flattencurve.jpg)
+
+---
+<!-- _footer: PM Ardern Getty Images -->
+<!-- _color:  -->
+
+<!-- ![bg right height:600](./pptimages/image36.png) -->
+![bg right height:500](./pptimages/Mask-1120.jpg)
+
+
+
+
 # <!--fit--> :metal:
